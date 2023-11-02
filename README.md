@@ -16,4 +16,5 @@ In addition, I have work experience using Unity and the high-level networking li
 
          -  👨‍🍳 eat & cooking good plates
   
-# Contact ---> <i>email</i>: federicocolleluori@gmail.com
+## Contact
+<i>email</i>: federicocolleluori@gmail.com
